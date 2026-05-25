@@ -1,10 +1,10 @@
-# Dra. Mariana Lopes Nutrição
+# Dra. Fulana Lopes Nutrição
 
 Protótipo MVP em React para uma landing page premium de agendamento de consulta online para uma nutricionista particular.
 
 ## Ideia do sistema
 
-O sistema apresenta a marca fictícia **Dra. Mariana Lopes Nutrição**, uma nutricionista com posicionamento de clínica premium, atendimento online e foco em acompanhamento personalizado.
+O sistema apresenta a marca fictícia **Dra. Fulana Lopes Nutrição**, uma nutricionista com posicionamento de clínica premium, atendimento online e foco em acompanhamento personalizado.
 
 A proposta é criar uma experiência elegante, acolhedora e profissional para transmitir confiança ao visitante e conduzi-lo ao agendamento de uma consulta. O site evita aparência de sistema administrativo e funciona como uma página comercial de conversão, com linguagem clara, visual sofisticado e formulário simples.
 
@@ -49,7 +49,7 @@ O projeto não utiliza backend, banco de dados ou integrações externas obrigat
 ## Estrutura
 
 ```text
-mariana-lopes-nutricao/
+Fulana-lopes-nutricao/
   index.html
   package.json
   postcss.config.js
