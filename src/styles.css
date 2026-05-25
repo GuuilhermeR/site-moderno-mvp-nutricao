@@ -11,10 +11,10 @@ html {
 body {
   margin: 0;
   background: #fbf7ef;
-  color: #2f3722;
+  color: #2f3721;
 }
 
 ::selection {
   background: #d7b879;
-  color: #2f3722;
+  color: #2f3721;
 }
